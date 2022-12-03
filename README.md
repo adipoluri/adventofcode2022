@@ -56,4 +56,3 @@
 | 23 |   |
 | 24 |   |
 | 25 |   |
-[template]: <> (:star: :star: (https://youtu.be/QVkiUfF6KtQ))
